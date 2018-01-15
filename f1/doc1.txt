@@ -5,4 +5,5 @@ ok, document on git1
 changed 2
 
 c3
-c4 in Atom, no
+c4 in Atom, yes (git, not github)
+
